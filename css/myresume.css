@@ -11,3 +11,7 @@ h1, h2, h3, h4, h5, h6 {
 	background-color: #5ba0d4!important;
 	background-image: url("https://www.transparenttextures.com/patterns/dark-wood.png")
 }
+
+
+ .row {align-items:center;
+  justify-content:center;}
