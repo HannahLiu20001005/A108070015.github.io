@@ -6,3 +6,8 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform: none;
 }
+
+.bg-primary {
+	background-color: #4e8fd4!important;
+	background-image: url("https://www.transparenttextures.com/patterns/dark-wood.png")
+}
